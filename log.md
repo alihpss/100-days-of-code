@@ -20,7 +20,7 @@
 
 1. '../100-days-of-code/day2'
 
-### Day 3: February 23, 2024
+### Day 3: February 29, 2024
 
 **Today's Progress**: I've learning about modules in python.
 
@@ -29,3 +29,14 @@
 **Link(s) to work**
 
 1. '../100-days-of-code/day3'
+
+### Day 4: March 1, 2024
+
+**Today's Progress**: I've learning about conditional structures
+in python.
+
+**Thoughts** I've recently started coding, and i understand and start to code some programs with this structure.
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day4'
