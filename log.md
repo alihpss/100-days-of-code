@@ -40,3 +40,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day4'
+
+### Day 5: March 4, 2024
+
+**Today's Progress**: I've learning about loops
+in python.
+
+**Thoughts** I've recently started coding, and i understand and start to code some programs with this structure. I developed programs like a multiplication table to test
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day5/for.py'
