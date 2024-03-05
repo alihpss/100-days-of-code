@@ -51,3 +51,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day5/for.py'
+
+### Day 6: March 5, 2024
+
+**Today's Progress**: I've learning about tuples
+in python.
+
+**Thoughts** I've recently started coding, and i understand about tuples
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day6'
