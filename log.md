@@ -62,3 +62,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day6'
+
+### Day 7: March 6, 2024
+
+**Today's Progress**: I've learning about lists
+in python.
+
+**Thoughts** I've recently started coding, and i understand about lists
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day7'
