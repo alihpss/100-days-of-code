@@ -84,3 +84,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day8'
+
+### Day 9: March 12, 2024
+
+**Today's Progress**: I've recently started coding, and i understand about dictionary
+in python.
+
+**Thoughts** I've srecently started coding, and i understand about dictionary
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day9'
