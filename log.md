@@ -95,3 +95,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day9'
+
+### Day 10: March 13, 2024
+
+**Today's Progress**: I've continue coding and practicing, and i understand more about dictionary
+in python.
+
+**Thoughts** I've continue coding and practicing, and i understand more about dictionary solving some exercises
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day10'
