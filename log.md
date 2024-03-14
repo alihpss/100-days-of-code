@@ -107,7 +107,7 @@ in python.
 
 1. '../100-days-of-code/day10'
 
-### Day 10: March 14, 2024
+### Day 11: March 14, 2024
 
 **Today's Progress**: I've continue coding and practicing, and i understand more about dictionary
 in python.
