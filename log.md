@@ -106,3 +106,14 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day10'
+
+### Day 10: March 14, 2024
+
+**Today's Progress**: I've continue coding and practicing, and i understand more about dictionary
+in python.
+
+**Thoughts** I've continue coding and practicing, and i understand more about dictionary solving more exercises
+
+**Link(s) to work**
+
+1. '../100-days-of-code/day11'
