@@ -117,3 +117,11 @@ in python.
 **Link(s) to work**
 
 1. '../100-days-of-code/day11'
+
+### Day 12: March 15, 2024
+
+**Today's Progress**: I practiced on the leetcode platform, solving some challenges in python
+
+**Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
+
+**Link(s) to work**
