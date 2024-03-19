@@ -125,3 +125,11 @@ in python.
 **Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
 
 **Link(s) to work**
+
+### Day 13: March 19, 2024
+
+**Today's Progress**: I practiced on the leetcode platform, solving some challenges in python
+
+**Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
+
+**Link(s) to work**
