@@ -133,3 +133,11 @@ in python.
 **Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
 
 **Link(s) to work**
+
+### Day 13: March 20, 2024
+
+**Today's Progress**: I've recently started coding, and i understand about functions in python
+
+**Thoughts** I've recently started coding, and i understand about functions. It was good.
+
+**Link(s) to work**
