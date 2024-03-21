@@ -134,10 +134,18 @@ in python.
 
 **Link(s) to work**
 
-### Day 13: March 20, 2024
+### Day 14: March 20, 2024
 
 **Today's Progress**: I've recently started coding, and i understand about functions in python
 
 **Thoughts** I've recently started coding, and i understand about functions. It was good.
+
+**Link(s) to work**
+
+### Day 15: March 21, 2024
+
+**Today's Progress**: I've recently started coding, and i understand about modules and packages in python
+
+**Thoughts** I've recently started coding, and i understand about modules and packages. It was good.
 
 **Link(s) to work**
