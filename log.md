@@ -149,3 +149,11 @@ in python.
 **Thoughts** I've recently started coding, and i understand about modules and packages. It was good.
 
 **Link(s) to work**
+
+### Day 16: March 26, 2024
+
+**Today's Progress**: I practiced on the leetcode platform, solving some challenges in python
+
+**Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
+
+**Link(s) to work**
