@@ -157,3 +157,12 @@ in python.
 **Thoughts** I practiced on the leetcode platform, solving some challenges. It was hard but ok.
 
 **Link(s) to work**
+
+### Day 17: April 2, 2024
+
+**Today's Progress**: I learn to open camera with openCV
+
+**Thoughts** I practiced on code and learn to open camera.
+
+**Link(s) to work**
+'../100-days-of-code/day17/index.py'
